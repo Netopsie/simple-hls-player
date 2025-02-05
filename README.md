@@ -28,4 +28,12 @@ npm run build
 > tested with Node 22.8.0 and npm 10.9.0  
   
 ### **4. Done 🎉**  
-You can now copy the contents of `dist` to some hosting solution of your choosing (Nginx, Apache, ...) or run a preview of the build with `npm run preview`
+You can now copy the contents of `dist` to some hosting solution of your choosing (Nginx, Apache, ...) or run a preview of the build with `npm run preview`  
+
+ ##
+> ### Author
+>
+>**Hendrik Juan-Ramon Gomez Giron / [HeGomGi](https://github.com/HeGomGi) @ [Netopsie Technologies GmbH](https://www.netoptv.de/)**  
+>© 2025. Released under the [MIT License](./LICENSE).
+>
+>This project makes use of [HLS.js](https://github.com/video-dev/hls.js) (Apache 2.0).
